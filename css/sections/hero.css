@@ -36,7 +36,7 @@
     font-family: var(--playfair-display);
     font-weight: 700;
     font-size: 120px;
-    line-height: 138xp;
+    line-height: 138px;
     color: #fff;
 }
 
@@ -57,7 +57,7 @@
 
 .hero-content-info h1 {
     font-size: 80px;
-    font-weight: 600xp;
+    font-weight: 600px;
     font-family: var(--playfair-display);
     color: var(--primary-color);
 }
@@ -71,7 +71,7 @@
     font-weight: 400;
 }
 
-.hero-content__button {
+.hero-content__buttons {
     margin: 41px 0 0 41px;
     
     display: flex;
